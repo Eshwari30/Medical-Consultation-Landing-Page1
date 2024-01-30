@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Medical-Consultation-Landing-Page1/static/css/main.692bf5ca.css",
+    "main.js": "/Medical-Consultation-Landing-Page1/static/js/main.7fdb9528.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Medical-Consultation-Landing-Page1/static/js/787.d4aba7ab.chunk.js",
+    "static/media/health2.jpg": "/Medical-Consultation-Landing-Page1/static/media/health2.9c033d31008f488fc02a.jpg",
+    "index.html": "/Medical-Consultation-Landing-Page1/index.html",
+    "main.692bf5ca.css.map": "/Medical-Consultation-Landing-Page1/static/css/main.692bf5ca.css.map",
+    "main.7fdb9528.js.map": "/Medical-Consultation-Landing-Page1/static/js/main.7fdb9528.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Medical-Consultation-Landing-Page1/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692bf5ca.css",
+    "static/js/main.7fdb9528.js"
+  ]
+}
